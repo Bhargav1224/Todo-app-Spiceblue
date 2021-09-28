@@ -1,0 +1,7 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+::placeholder {
+	font-family: "Varela Round", sans-serif;
+}
